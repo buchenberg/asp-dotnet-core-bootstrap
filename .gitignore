@@ -1,0 +1,9 @@
+# Visual Studio Code
+.vscode
+
+# data
+.db-data
+
+# api
+api/app/bin
+api/app/obj
